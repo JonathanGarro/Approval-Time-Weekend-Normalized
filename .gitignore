@@ -1,3 +1,5 @@
 *.csv
 /outputs
 .venv
+*.xml
+*.idea
